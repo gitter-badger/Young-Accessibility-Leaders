@@ -1,5 +1,7 @@
 # Young Accessibility Leaders 
 
+[![Join the chat at https://gitter.im/Young-Accessibility-Leaders/community](https://badges.gitter.im/Young-Accessibility-Leaders/community.svg)](https://gitter.im/Young-Accessibility-Leaders/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Hello and welcome to Young Accessibility Leaders! Thank you for taking a look, we're excited to have you 🎉
 
 **What's Young Accessibility Leaders about?** 
